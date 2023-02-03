@@ -2,8 +2,7 @@
 
 the app is currently running you can try at :
 
-https://aymenhakim99.github.io/Budget-App/
-
+https://aymenhakim99.github.io/Expense-Tracker/
 
 # ScreenShot
 
