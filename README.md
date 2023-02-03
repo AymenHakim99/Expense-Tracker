@@ -1,4 +1,4 @@
-# Budget-App
+# Expense-Tracker
 
 the app is currently running you can try at :
 
