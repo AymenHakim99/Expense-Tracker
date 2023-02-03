@@ -1,3 +1,6 @@
+credit goes to https://codingartistweb.com/
+most of the code is taken from the the site.
+
 # Expense-Tracker
 
 the app is currently running you can try at :
