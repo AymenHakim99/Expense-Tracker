@@ -1,4 +1,4 @@
-credit goes to https://codingartistweb.com/
+credit goes to codingartistweb.com
 most of the code is taken from the the site.
 
 # Expense-Tracker
